@@ -1,0 +1,12 @@
+Staging integration files:
+- android/app/build.gradle.kts
+- android/gradle/libs.versions.toml
+- android/app/src/main/AndroidManifest.xml
+- android/app/src/main/java/com/kelompok/tangkis/ui/TangkisApp.kt
+- android/app/src/main/java/com/kelompok/tangkis/data/api/ApiModels.kt
+- android/app/src/main/java/com/kelompok/tangkis/data/api/TangkisApiService.kt
+- android/app/src/main/java/com/kelompok/tangkis/data/api/ApiClient.kt
+- android/app/src/main/java/com/kelompok/tangkis/data/api/DetectionApiMapper.kt
+- android/gradle.properties
+- STAGING_API_INTEGRATION.md
+- STAGING_CHANGES.md

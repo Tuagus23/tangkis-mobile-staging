@@ -1,0 +1,11 @@
+# File sistem operasi dan editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python dan notebook
+__pycache__/
+.ipynb_checkpoints/
+.venv/
